@@ -1,0 +1,16 @@
+[作業目標]
+對資料做更多處理 : 顯示特定欄位的統計值與直方圖
+
+[作業重點]
+試著顯示特定欄位的基礎統計數值 (In[4], Out[4], Hint : describe())
+試著顯示特定欄位的直方圖 (In[5], Out[5], Hint : .hist())
+
+練習時間
+觀察有興趣的欄位的資料分佈，並嘗試找出有趣的訊息
+
+Eg
+計算任意欄位的平均數及標準差
+畫出任意欄位的直方圖
+Hints:
+Descriptive Statistics For pandas Dataframe
+pandas 中的繪圖函數

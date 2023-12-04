@@ -1,0 +1,7 @@
+作業
+  請使用 application_train.csv, 根據不同的 HOUSETYPE_MODE 對 AMT_CREDIT 繪製 Histogram
+[作業目標]
+  試著調整資料, 並利用提供的程式繪製分布圖
+[作業重點]
+  如何將列出相異的 HOUSETYPE_MODE 類別 (In[3])
+  如何依照不同的 HOUSETYPE_MODE 類別指定資料, 並繪製長條圖(.hist())? (In[3])

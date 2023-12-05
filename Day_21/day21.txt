@@ -1,0 +1,10 @@
+練習時間
+  將你的結果存成 csv, 上傳你的第一份 Kaggle 成績
+Hints: https://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file
+
+[作業目標]
+  檢視並重新執行腳本, 試著將執行結果存檔並提交到 Kaggle 上
+[作業重點]
+  執行後, 將所得結果, 存成可以提交的 csv 檔 (In[10]) (Hint : 使用 pandas.DataFreame.to_csv)
+[提醒]
+  執行後, 將所得結果, 存成可以提交的 csv 檔 (In[10]) (Hint : 使用 pandas.DataFreame.to_csv)
